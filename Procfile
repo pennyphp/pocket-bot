@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n pocket
+web: bin/hubot -a irc -n pocket-bot
